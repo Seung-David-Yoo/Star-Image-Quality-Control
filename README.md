@@ -16,6 +16,7 @@ Python programming language to preprocess the star images,
 separate them into training and testing data, create and compare
 different models and validate the accuracy of the model and
 choose the best model.
+
 Keyword: SVM, Hu Moments, Image Classification, KNN,
 Random Forest, Machine Learning, Astronomical Images.
 
