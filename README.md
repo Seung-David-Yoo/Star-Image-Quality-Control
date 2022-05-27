@@ -1,5 +1,4 @@
-# Star-Image-Quality-Control
-A Practical Application of Machine Learning Models in Image Classification
+# Star-Image-Quality-Control : A Practical Application of Machine Learning Models in Image Classification
 
 
 In astrophotography, astronomers take hundreds of
